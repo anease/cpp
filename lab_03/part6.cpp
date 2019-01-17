@@ -20,9 +20,7 @@ double E_to_X(double X) {
         //    diff = fabs( e - ((pow (X,(z-1))) / (q/(z)))); }
 
         }
-
-
-
+    
     return e;
 }
 
